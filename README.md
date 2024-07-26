@@ -7,7 +7,7 @@ I am a first-year computer science student at Queen's University, with a strong 
 - 🎮 Working in Python to develop a 2D adventure RPG using Pygame
 - 💻 Currently working towards improving my skills in ReactJS and PostgreSQL to develop a full-stack web application in the future
 
-## 🌐 Connect with me:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinangelo-valencia/)
 
 ## 💻 Tech Stack:
