@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Erik Cupsa</h1>
+<h1 align="center">Hi 👋 I'm Kevin Valencia</h1>
 
 # 💫 About Me:
 I am a first-year computer science student at Queen's University, with a strong passion for web development and artificial intelligence.
