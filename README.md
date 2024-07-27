@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Kevin Valencia</h1>
 
 # 🎓 About Me:
-As a first-year computer science student at Queen's University, I have a strong passion for web development and artificial intelligence. I'm committed to enhancing my technical skills to create robust applications and apply my knowledge in practical, real-world projects alongside industry professionals.
+As a first-year computer science student at Queen's University, I have a strong passion for web development and artificial intelligence. I'm committed to enhance my technical skills in order to create robust applications and apply my knowledge in practical, real-world projects alongside industry professionals.
 
 Check out my [portfolio!](https://www.google.ca/)
 
