@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Kevin Valencia</h1>
 
 # 🎓 About Me:
-I'm a first-year computer science student at Queen's University, with a strong passion for web development and artificial intelligence. I'm a highly driven individual dedicated to improving my technical skills in order to develop robust applications and apply my knowledge in real-world settings with industry professionals.
+As a first-year computer science student at Queen's University, I have a strong passion for web development and artificial intelligence. I'm committed to enhancing my technical skills to create robust applications and apply my knowledge in practical, real-world projects alongside industry professionals.
 
 ## 🚀 My Recent Activity
 - 🎮 Working in Python to develop a 2D adventure RPG using Pygame
