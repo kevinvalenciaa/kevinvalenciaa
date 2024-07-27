@@ -3,11 +3,11 @@
 # 🎓 About Me:
 As a first-year computer science student at Queen's University, I have a strong passion for web development and artificial intelligence. I'm committed to enhancing my technical skills to create robust applications and apply my knowledge in practical, real-world projects alongside industry professionals.
 
+Check out my [portfolio!](https://www.google.ca/)
+
 ## 🚀 My Recent Activity
 - 🎮 Working in Python to develop a 2D adventure RPG using Pygame
 - 💻 Currently working towards improving my skills in ReactJS and PostgreSQL to develop a full-stack web application in the future
-
-Check out my [portfolio!](https://www.google.ca/)
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinangelo-valencia/)
