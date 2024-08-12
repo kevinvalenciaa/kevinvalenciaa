@@ -10,7 +10,7 @@ Check out my [portfolio!](https://www.google.ca/)
 - 💻 Currently working towards improving my skills in ReactJS and PostgreSQL to develop a full-stack web application in the future
 
 ## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinangelo-valencia/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinangelo-valencia/)
 
 ## 💻 Tech Stack:
 Languages: 
