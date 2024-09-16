@@ -7,7 +7,8 @@ As a first-year computer science student at Queen's University, I have a strong 
 
 ## 🚀 My Recent Activity
 - 🎮 Working in Python to develop a 2D adventure RPG using Pygame
-- 💻 Currently working towards improving my skills in ReactJS and NextJS to develop a full-stack web application in the future
+- 💻 Currently building a personal portfolio using React and Typescript
+<!--- Currently working towards improving my skills in ReactJS and NextJS to develop a full-stack web application in the future--->
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinangelo-valencia/)
