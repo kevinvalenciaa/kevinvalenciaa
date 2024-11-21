@@ -6,8 +6,8 @@ As a first-year computer science student at Queen's University, I have a strong 
 <!--Check out my [portfolio!](https://www.google.ca/)--->
 
 ## 🚀 My Recent Activity
-- 🎮 Working in Python to develop a 2D adventure RPG using Pygame
 - 💻 Currently building a personal portfolio using React and Typescript
+- 🤖 Working with QMIND to develop a Reinforcement Learning Model
 <!--- Currently working towards improving my skills in ReactJS and NextJS to develop a full-stack web application in the future--->
 
 ## 🌐 Connect With Me:
