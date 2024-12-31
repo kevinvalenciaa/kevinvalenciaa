@@ -6,7 +6,7 @@ As a first-year computer science student at Queen's University, I have a strong 
 <!--Check out my [portfolio!](https://www.google.ca/)--->
 
 ## 🚀 My Recent Activity
-- 💻 Currently building a personal portfolio using React and Typescript
+- 💻 Enhancing my full-stack development skills
 - 🤖 Working with QMIND to develop a Reinforcement Learning Model
 <!--- Currently working towards improving my skills in ReactJS and NextJS to develop a full-stack web application in the future--->
 
