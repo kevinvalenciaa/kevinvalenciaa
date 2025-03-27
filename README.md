@@ -7,7 +7,7 @@ Check out my [portfolio!](https://kvalencia.vercel.app/)
 
 ## 🚀 My Recent Activity
 - 💻 Enhancing my full-stack development skills
-- 🤖 Working with QMIND to develop a Reinforcement Learning Model
+- 🤖 Developing Voyentra AI
 <!--- Currently working towards improving my skills in ReactJS and NextJS to develop a full-stack web application in the future--->
 
 ## 🌐 Connect With Me:
