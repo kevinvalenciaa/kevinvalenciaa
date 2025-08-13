@@ -7,7 +7,7 @@ Check out my [portfolio!](https://kvalencia.vercel.app/)
 
 ## 🚀 My Recent Activity
 - 💻 Enhancing my full-stack development skills
-- 🤖 Developing Voyentra AI
+- 🤖 Building AI Agents for Real Estate
 <!--- Currently working towards improving my skills in ReactJS and NextJS to develop a full-stack web application in the future--->
 
 ## 🌐 Connect With Me:
