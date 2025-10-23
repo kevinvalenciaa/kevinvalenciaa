@@ -6,7 +6,7 @@ As a computer science student at Queen's University, I have a strong passion for
 Check out my [portfolio!](https://kvalencia.vercel.app/)
 
 ## 🚀 My Recent Activity
-- 🍀 Incoming SWE Intern @ [Clover Labs](https://cloverlabs.ai/)
+- 🍀 SWE Intern @ [Clover Labs](https://cloverlabs.ai/)
 - 🤖 Building AI Agents for Real Estate
 <!--- Currently working towards improving my skills in ReactJS and NextJS to develop a full-stack web application in the future--->
 
