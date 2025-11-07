@@ -11,7 +11,7 @@ Check out my [portfolio!](https://kvalencia.vercel.app/)
 <!--- Currently working towards improving my skills in ReactJS and NextJS to develop a full-stack web application in the future--->
 
 ## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinangelo-valencia/)
+[![LinkedIn](https://www.linkedin.com/in/kevin-valenciaa/)
 
 ## 💻 Tech Stack:
 Languages: 
