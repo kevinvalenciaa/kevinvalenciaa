@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋 I'm Kevin Valencia</h1>
 
 # 🎓 About Me:
-As a computer science student at Queen's University, I have a strong passion for full-stack development and software engineering. I'm committed towards enhancing my technical skills in order to create robust applications and apply my knowledge in practical, real-world projects alongside industry professionals.
+Hey! I'm Kevin, a Toronto-based CS student at Queen's University focused on AI and obsessed with building full-stack AI products. I absolutely love to turn ideas from 0 to 1, and I highly prioritize shipping fast, iterating faster, and scaling what works.
+
+Currently, I'm a software engineer at Clover Labs while building a startup in the GPU infrastructure space.
 
 Check out my [portfolio!](https://www.kevinvalencia.ca/)
 
