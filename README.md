@@ -8,7 +8,7 @@ Currently, I'm a software engineer at Clover Labs while building a startup in th
 Check out my [portfolio!](https://www.kevinvalencia.ca/)
 
 ## 🚀 My Recent Activity
-- 🍀 SWE Intern @ [Clover Labs](https://cloverlabs.ai/)
+- 🍀 SWE @ [Clover Labs](https://cloverlabs.ai/)
 - 🤖 Building AI Agents for Real Estate
 <!--- Currently working towards improving my skills in ReactJS and NextJS to develop a full-stack web application in the future--->
 
