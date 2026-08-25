@@ -5,7 +5,7 @@ sr. swe @ [clover labs](https://cloverlabs.ai/)
 
 prev. @ [stan](https://www.stan.store/)
 
-view my work at [kevinvalencia.ca](https://www.kevinvalencia.ca/) or check out my [x](https://x.com/kkevinvalencia), [linkedin](https://www.linkedin.com/in/kevin-valenciaa/)
+view my work at [kevinvalencia.ca](https://www.kevinvalencia.ca/) or check out my [linkedin](https://www.linkedin.com/in/kevin-valenciaa/), [x](https://x.com/kkevinvalencia)
 
 <!---
 kevinvalenciaa/kevinvalenciaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
