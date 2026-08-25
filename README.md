@@ -1,39 +1,11 @@
-<h1 align="center">Hi 👋 I'm Kevin Valencia</h1>
 
-# 🎓 About Me:
-Hey! I'm Kevin, a Toronto-based CS student at Queen's University focused on AI and obsessed with building full-stack AI products. I absolutely love to turn ideas from 0 to 1, and I highly prioritize shipping fast, iterating faster, and scaling what works.
+hey! im kevin, a toronto-based cs student @ queen's university.
 
-Currently, I'm a software engineer at Clover Labs while building a startup in the GPU infrastructure space.
+sr. swe @ [clover labs](https://cloverlabs.ai/)
 
-Check out my [portfolio!](https://www.kevinvalencia.ca/)
+prev. @ [stan](https://www.stan.store/)
 
-## 🚀 My Recent Activity
-- 🍀 Sr. SWE @ [Clover Labs](https://cloverlabs.ai/)
-
-<!--- Currently working towards improving my skills in ReactJS and NextJS to develop a full-stack web application in the future--->
-
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-valenciaa/)
-
-## 💻 Tech Stack:
-Languages: 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-
-
-Developer Tools:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
-Libraries/Frameworks:
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+view my work at [kevinvalencia.ca](https://www.kevinvalencia.ca/) or check out my [x](https://x.com/kkevinvalencia), [linkedin](https://www.linkedin.com/in/kevin-valenciaa/)
 
 <!---
 kevinvalenciaa/kevinvalenciaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
