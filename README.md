@@ -3,7 +3,7 @@ hey! im kevin, a toronto-based cs student @ queen's university.
 
 currently sr. swe @ [clover labs](https://cloverlabs.ai/)
 
-prev. @ [stan](https://www.stan.store/)
+prev. @ [stan](https://www.stan.store/), building [stanley](https://www.getstanley.ai)
 
 view my work at [kevinvalencia.ca](https://www.kevinvalencia.ca/) or check me out on [linkedin](https://www.linkedin.com/in/kevin-valenciaa/), [x](https://x.com/kkevinvalencia)
 
