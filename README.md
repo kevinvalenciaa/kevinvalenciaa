@@ -1,7 +1,7 @@
 
 hey! im kevin, a toronto-based cs student @ queen's university.
 
-currently a sr. swe @ [clover labs](https://cloverlabs.ai/)
+currently sr. swe @ [clover labs](https://cloverlabs.ai/)
 
 prev. @ [stan](https://www.stan.store/)
 
